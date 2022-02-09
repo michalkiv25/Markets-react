@@ -1,0 +1,60 @@
+.contanier{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.columns{
+    display: flex;
+    width: 800px;
+    
+}
+
+.exchangeSymbol{
+    display: flex;
+    align-items: center;
+    padding-right: 24px;
+    min-width:300px;
+}
+
+.exchangeSymbol h1{
+    font-size: 16px;
+    width: 150px;
+    color:#6495ED;
+}
+
+.data{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+
+.exchangeTimezoneName{
+    width: 200px;
+}
+
+.regularMarketChange{
+    width: 240px;
+}
+
+.red{
+    color: red;
+    font-size: 15px;
+}
+
+.green{
+    color:green;
+    font-size: 15px;
+}
+
+.regularMarketTime{
+    width: 110px;
+}
+
+
+
+
+
+
+

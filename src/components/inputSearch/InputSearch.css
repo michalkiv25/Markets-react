@@ -1,0 +1,28 @@
+.all-input{
+  margin-bottom: 100px;
+}
+
+.input{
+    padding-left: 16px;
+    width: 200px;
+    height: 50px;
+    border-radius: 4px;
+    border: none;
+    color:#778899;
+    margin-left: 10px;
+    background-color: #F5F5F5;
+  }
+
+  .input:focus{
+    background-color:#D3D3D3;
+  }
+  
+  .input::placeholder{
+    color:black;
+    opacity: 0.3;
+    padding: 10px;
+  }
+
+ 
+
+

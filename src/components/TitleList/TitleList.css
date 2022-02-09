@@ -1,0 +1,23 @@
+.title-List{
+    display: grid;
+    grid-template-columns: repeat(5,200px);
+    grid-gap:2px 20px;
+    text-decoration: underline;
+    text-decoration-color: #6495ED;
+    font-size:15px;
+    font-weight: bold;
+}
+
+.title{
+    color: black;
+    margin-left: 5px;
+
+}
+
+.one{
+    margin-left: 120px;
+}
+
+.two{
+    margin-left: 70px;
+}
